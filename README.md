@@ -1,8 +1,6 @@
 
 # [GDayX Bootstrap v0.01](http://github.com/GBGLima-pe/gbglima_gdayx) 
-
-[![+Google](https://lh6.googleusercontent.com/-0DhRkDheZdA/UWQ1IFbg5fI/AAAAAAAAABk/qwDqN-1TwCw/s250-no/GBG+Lima.png)](http://gplus.to/gbglima)
-[![+Google](https://lh4.googleusercontent.com/-4mmpKxoPbkk/Ubo97EFuaxI/AAAAAAAAABo/opKVaHH3O3g/s250-no/gdglima.png](http://gplus.to/gdglimape)
+[![+GoogleGBG](https://lh6.googleusercontent.com/-0DhRkDheZdA/UWQ1IFbg5fI/AAAAAAAAABk/qwDqN-1TwCw/s250-no/GBG+Lima.png)](http://gplus.to/gbglima)[![+GoogleGDG](https://lh4.googleusercontent.com/-4mmpKxoPbkk/Ubo97EFuaxI/AAAAAAAAABo/opKVaHH3O3g/s250-no/gdglima.png](http://gplus.to/gdglimape)
 
 ##Created by 
 
@@ -30,7 +28,7 @@ Enjoy your site with Bootstrap
 Includes Twitter Bootstrap and jQuery - License all inside.
 
 
-**LIVE EXAMPLES**
+**Live Example*
 ================
 [GDayX Perú](gbgperu.org/eventos/gday) v 0.1
 
