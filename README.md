@@ -13,7 +13,7 @@ Team Developer
 * [Diego Urbina](gplus.to/alevandie)
 * [Juan José Rodríguez](gplus.to/jrodriguezv10)
 
-**Welcome!**
+##Welcome!
 
 This is a bootstrap bundle code for GBG’s and GDG’s!, if your local GBG/GDG  Team need setup and upload in a host this template, please read this instructions.
 
@@ -21,14 +21,15 @@ This is a bootstrap bundle code for GBG’s and GDG’s!, if your local GBG/GDG 
 
 Go to [GDayX Bootstrap v0.01](https://github.com/GBGLima-pe/gbglima_gdayx) and Click on Download.
 To edit the bootstrap, you have to review the instruction in this [link](http://twitter.github.io/bootstrap/)
-To deploy the bootstrap, you can use the private server or Google Drive. The instruction to use Google Drive follow this link  
+To deploy the bootstrap, you can use the private server or Google Drive. The instruction to use Google Drive follow this link.  
 Enjoy your site with Bootstrap
 
 Includes Twitter Bootstrap and jQuery - License all inside.
 
 **Live Example** 
-[GDayX Perú](gbgperu.org/eventos/gday) v 0.1
 ================
+
+[GDayX Perú](gbgperu.org/eventos/gday) v 0.1
 
 * Presentation.
 * Schedule.
