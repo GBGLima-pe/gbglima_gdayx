@@ -1,6 +1,48 @@
-DayX
-====
+GDayX Bootstrap v0.01
+=====================
 
-Standard Bundle of GBG GDayX
+Created by 
+Google Business Group - GBG Lima - gplus.to/gbglima
+Google Developer Group - GDG Lima - gplus.to/gdglimape
+Lima, Perú 2013.
+Team Developer 
 
-by GBGLima Team 2013
+Manuel Rivera  gplus.to/manuelrc	
+Diego Urbina	gplus.to/alevandie
+Juan José Rodríguez	gplus.to/jrodriguezv10
+
+
+Welcome!
+This is a bootstrap bundle code for GBG’s and GDG’s!, if your local GBG/GDG  Team need setup and upload in a host this template, please read this instructions.
+
+
+How do I use it?
+
+Go to https://github.com/GBGLima-pe/gbglima_gdayx and Click on Download.
+
+To edit the bootstrap, you have to review the instruction in http://twitter.github.io/bootstrap/
+
+To deploy the bootstrap, you can use the private server or Google Drive. The instruction to use Google Drive follow this link  
+
+Enjoy your site with Bootstrap
+
+Includes Twitter Bootstrap and jQuery - License all inside.
+
+
+LIVE EXAMPLES
+=============
+GDayX Perú - gbgperu.org/eventos/gday
+
+=======================================
+v 0.1
+
+Presentation
+Schedule
+Speakers
+Sponsors
+Place
+Register (Using eventbrite)
+
+Pd. If you have any question, you can send questions and comments in gplus.to/gbglima
+
+
