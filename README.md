@@ -2,14 +2,14 @@
 # [GDayX Bootstrap v0.01](http://github.com/GBGLima-pe/gbglima_gdayx) [![+Google](https://lh6.googleusercontent.com/-0DhRkDheZdA/UWQ1IFbg5fI/AAAAAAAAABk/qwDqN-1TwCw/s250-no/GBG+Lima.png)](https://plus.google.com/u/1/116054509796958923549)
 
 Created by 
-Google Business Group - GBG Lima - gplus.to/gbglima
-Google Developer Group - GDG Lima - gplus.to/gdglimape
+[Google Business Group - GBG Lima](gplus.to/gbglima)
+[Google Developer Group - GDG Lima](gplus.to/gdglimape)
 Lima, Perú 2013.
 Team Developer 
 
-Manuel Rivera  gplus.to/manuelrc	
-Diego Urbina	gplus.to/alevandie
-Juan José Rodríguez	gplus.to/jrodriguezv10
+[Manuel Rivera](gplus.to/manuelrc)	
+[Diego Urbina](gplus.to/alevandie)
+[Juan José Rodríguez](gplus.to/jrodriguezv10)
 
 
 Welcome!
