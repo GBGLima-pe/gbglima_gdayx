@@ -4,14 +4,14 @@
 
 ##Created by 
 
-[Google Business Group - GBG Lima](gplus.to/gbglima) &
-[Google Developer Group - GDG Lima](gplus.to/gdglimape)
+[Google Business Group - GBG Lima](http://gplus.to/gbglima) &
+[Google Developer Group - GDG Lima](http://gplus.to/gdglimape)
 Lima, Perú 2013.
 Team Developer 
 
-* [Manuel Rivera](gplus.to/manuelrc)	
-* [Diego Urbina](gplus.to/alevandie)
-* [Juan José Rodríguez](gplus.to/jrodriguezv10)
+* [Manuel Rivera](http://gplus.to/manuelrc)	
+* [Diego Urbina](http://gplus.to/alevandie)
+* [Juan José Rodríguez](http://gplus.to/jrodriguezv10)
 
 ##Welcome!
 
@@ -29,7 +29,7 @@ Includes Twitter Bootstrap and jQuery - License all inside.
 **Live Example** 
 ================
 
-[GDayX Perú](gbgperu.org/eventos/gday) v 0.1
+[GDayX Perú](http://gbgperu.org/eventos/gday) v 0.1
 
 * Presentation.
 * Schedule.
@@ -39,7 +39,7 @@ Includes Twitter Bootstrap and jQuery - License all inside.
 * Register (Using eventbrite).
 
 ```
-Pd. If you have any question, you can send questions and comments in [GBGLima](gplus.to/gbglima)
+Pd. If you have any question, you can send questions and comments in [GBGLima](http://gplus.to/gbglima)
 ```
 
 
