@@ -1,5 +1,5 @@
 
-# [GDayX Bootstrap v0.01](http://github.com/GBGLima-pe/gbglima_gdayx) [![+Google](https://plus.google.com/u/1/116054509796958923549)](https://plus.google.com/u/1/116054509796958923549)
+# [GDayX Bootstrap v0.01](http://github.com/GBGLima-pe/gbglima_gdayx) [![+Google](https://plus.google.com/u/1/116054509796958923549)](https://lh6.googleusercontent.com/-0DhRkDheZdA/UWQ1IFbg5fI/AAAAAAAAABk/qwDqN-1TwCw/s250-no/GBG+Lima.png)
 
 Created by 
 Google Business Group - GBG Lima - gplus.to/gbglima
