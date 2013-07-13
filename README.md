@@ -29,9 +29,11 @@ Enjoy your site with Bootstrap
 Includes Twitter Bootstrap and jQuery - License all inside.
 
 
-**Live Example** [
-GDayX Perú](gbgperu.org/eventos/gday) v 0.1
+**Live Example**
 ================
+```
+GDayX Perú](gbgperu.org/eventos/gday) v 0.1
+```
 
 * Presentation.
 * Schedule.
@@ -41,7 +43,7 @@ GDayX Perú](gbgperu.org/eventos/gday) v 0.1
 * Register (Using eventbrite).
 
 ```
-`Pd. If you have any question, you can send questions and comments in [GBGLima](gplus.to/gbglima)
+Pd. If you have any question, you can send questions and comments in [GBGLima](gplus.to/gbglima)
 ```
 
 
