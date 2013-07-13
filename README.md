@@ -1,5 +1,8 @@
 
-# [GDayX Bootstrap v0.01](http://github.com/GBGLima-pe/gbglima_gdayx) [![+Google](https://lh6.googleusercontent.com/-0DhRkDheZdA/UWQ1IFbg5fI/AAAAAAAAABk/qwDqN-1TwCw/s250-no/GBG+Lima.png)](https://plus.google.com/u/1/116054509796958923549)
+# [GDayX Bootstrap v0.01](http://github.com/GBGLima-pe/gbglima_gdayx) 
+
+[![+Google](https://lh6.googleusercontent.com/-0DhRkDheZdA/UWQ1IFbg5fI/AAAAAAAAABk/qwDqN-1TwCw/s250-no/GBG+Lima.png)](http://gplus.to/gbglima)
+[![+Google](https://lh4.googleusercontent.com/-4mmpKxoPbkk/Ubo97EFuaxI/AAAAAAAAABo/opKVaHH3O3g/s250-no/gdglima.png](http://gplus.to/gdglimape)
 
 ##Created by 
 
@@ -13,7 +16,7 @@ Team Developer
 [Juan José Rodríguez](gplus.to/jrodriguezv10)
 
 
-**Welcome!
+**Welcome!**
 This is a bootstrap bundle code for GBG’s and GDG’s!, if your local GBG/GDG  Team need setup and upload in a host this template, please read this instructions.
 
 
@@ -27,11 +30,9 @@ Enjoy your site with Bootstrap
 Includes Twitter Bootstrap and jQuery - License all inside.
 
 
-##LIVE EXAMPLES
-=============
-[GDayX Perú](gbgperu.org/eventos/gday)
-=======================================
-v 0.1
+**LIVE EXAMPLES**
+================
+[GDayX Perú](gbgperu.org/eventos/gday) v 0.1
 
 *Presentation
 *Schedule
@@ -41,3 +42,5 @@ v 0.1
 *Register (Using eventbrite)
 
 Pd. If you have any question, you can send questions and comments in [GBGLima](gplus.to/gbglima)
+
+
