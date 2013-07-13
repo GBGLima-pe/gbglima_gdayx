@@ -13,11 +13,9 @@ Team Developer
 * [Diego Urbina](gplus.to/alevandie)
 * [Juan José Rodríguez](gplus.to/jrodriguezv10)
 
-
 **Welcome!**
 
 This is a bootstrap bundle code for GBG’s and GDG’s!, if your local GBG/GDG  Team need setup and upload in a host this template, please read this instructions.
-
 
 ##How do I use it?
 
@@ -28,12 +26,9 @@ Enjoy your site with Bootstrap
 
 Includes Twitter Bootstrap and jQuery - License all inside.
 
-
-**Live Example**
-================
-```
+**Live Example** 
 [GDayX Perú](gbgperu.org/eventos/gday) v 0.1
-```
+================
 
 * Presentation.
 * Schedule.
