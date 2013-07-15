@@ -38,8 +38,8 @@ Includes Twitter Bootstrap and jQuery - License all inside.
 * Place.
 * Register (Using eventbrite).
 
-```
+
 Pd. If you have any question, you can send questions and comments in [GBGLima](http://gplus.to/gbglima)
-```
+
 
 
