@@ -6,6 +6,7 @@
 
 [Google Business Group - GBG Lima](http://gplus.to/gbglima) &
 [Google Developer Group - GDG Lima](http://gplus.to/gdglimape)
+
 Lima, Perú 2013.
 Team Developer 
 
